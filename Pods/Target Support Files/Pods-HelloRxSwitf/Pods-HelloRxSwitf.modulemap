@@ -1,0 +1,6 @@
+framework module Pods_HelloRxSwitf {
+  umbrella header "Pods-HelloRxSwitf-umbrella.h"
+
+  export *
+  module * { export * }
+}
